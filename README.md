@@ -16,8 +16,9 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 - [Virtual CSS with Styletron](https://ryantsao.com/blog/virtual-css-with-styletron) (css-in-js ➡️ atomic CSS)
 
 ### How?
-- [Basscss](http://www.basscss.com)
 - [Tachyons](http://tachyons.io)
+- [Minions](https://github.com/chantastic/minions.css)
+- [Basscss](http://www.basscss.com)
 - [BuzzFeed's Solid](http://solid.buzzfeed.com)
 - [Immutable CSS](http://immutablecss.com)
 - [CSS Stats](http://cssstats.com)
