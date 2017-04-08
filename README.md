@@ -25,5 +25,5 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 - [CSS Stats](http://cssstats.com)
 - [Intro to Modular CSS](https://github.com/rangle/intro-to-modular-css)
 - [Styletron](https://github.com/rtsao/styletron)
-- [react-native-style-tachyons](https://github.com/tachyons-css/react-native-style-tachyons) ⚛️ Native
-- [Draper](https://github.com/winkerVSbecks/draper) ⚛️ Native
+- [react-native-style-tachyons](https://github.com/tachyons-css/react-native-style-tachyons) (for React Native)
+- [Draper](https://github.com/winkerVSbecks/draper) (for React Native)
