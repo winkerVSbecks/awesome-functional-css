@@ -2,6 +2,10 @@
 
 A collection of awesome things related to functional CSS/atomic CSS/modular CSS/immutable utilities/etc. 
 
+### tldr;
+> so style, much classes, very functional
+– [Matt Rothenberg](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
+
 ### Why?
 - [Functional CSS Protips](https://github.com/chibicode/react-functional-css-protips) ✨ The most exhaustive guide to functional CSS
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/)
