@@ -30,6 +30,7 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 - [Minions](https://github.com/chantastic/minions.css)
 - [Basscss](http://www.basscss.com)
 - [BuzzFeed's Solid](http://solid.buzzfeed.com)
+- [Purple3](http://purple3.herokuapp.com/)
 - [Immutable CSS](http://immutablecss.com)
 - [CSS Stats](http://cssstats.com)
 - [Intro to Modular CSS](https://github.com/rangle/intro-to-modular-css)
