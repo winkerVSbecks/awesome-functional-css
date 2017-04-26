@@ -28,6 +28,7 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 ### How?
 - [Tachyons](http://tachyons.io)
 - [Minions](https://github.com/chantastic/minions.css)
+- [tachyons-js](https://github.com/jongold/tachyons-js) (css-in-js)
 - [Basscss](http://www.basscss.com)
 - [BuzzFeed's Solid](http://solid.buzzfeed.com)
 - [Purple3](http://purple3.herokuapp.com/)
