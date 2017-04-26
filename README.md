@@ -21,6 +21,9 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 - [Building and shipping functional CSS](https://medium.com/@cole_peters/building-and-shipping-functional-css-4f29b947bcb9#.7r1u7t5rh)
 - [Using Helper Classes to DRY and Scale CSS](https://www.sitepoint.com/using-helper-classes-dry-scale-css)
 - [Virtual CSS with Styletron](https://ryantsao.com/blog/virtual-css-with-styletron) (css-in-js ➡️ atomic CSS)
+- [Functional Programming, CSS, and your sanity](http://www.jon.gold/2015/07/functional-css/)
+- [Functional CSS (FCSS)](http://eng.wealthfront.com/2013/08/20/functional-css-fcss)
+- [Immutable CSS](https://csswizardry.com/2015/03/immutable-css/)
 
 ### How?
 - [Tachyons](http://tachyons.io)
