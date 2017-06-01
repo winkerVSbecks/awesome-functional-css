@@ -25,6 +25,8 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 - [Functional CSS (FCSS)](http://eng.wealthfront.com/2013/08/20/functional-css-fcss)
 - [Immutable CSS](https://csswizardry.com/2015/03/immutable-css/)
 - [My experience with Tachyons CSS (so far)](https://medium.com/@Markjobrien/my-experience-with-tachyons-css-so-far-8f63b41eb14b)
+- [By The Numbers: A Year and Half with Atomic CSS](https://medium.com/@johnpolacek/by-the-numbers-a-year-and-half-with-atomic-css-39d75b1263b4)
+- [Opinions of Leaders Considered Harmful](http://cssmojo.com/opinions_of_leaders_considered_harmful)
 
 ### How?
 - [Tachyons](http://tachyons.io)
