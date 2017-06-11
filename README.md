@@ -27,6 +27,7 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 - [My experience with Tachyons CSS (so far)](https://medium.com/@Markjobrien/my-experience-with-tachyons-css-so-far-8f63b41eb14b)
 - [By The Numbers: A Year and Half with Atomic CSS](https://medium.com/@johnpolacek/by-the-numbers-a-year-and-half-with-atomic-css-39d75b1263b4)
 - [Opinions of Leaders Considered Harmful](http://cssmojo.com/opinions_of_leaders_considered_harmful)
+- [70% Repetition in Style Sheets](https://meiert.com/en/blog/20170531/70-percent-css-repetition/)
 
 ### How?
 - [Tachyons](http://tachyons.io)
