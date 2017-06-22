@@ -29,7 +29,7 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 - [Opinions of Leaders Considered Harmful](http://cssmojo.com/opinions_of_leaders_considered_harmful)
 - [70% Repetition in Style Sheets](https://meiert.com/en/blog/20170531/70-percent-css-repetition/)
 
-### How?
+### Frameworks
 - [Tachyons](http://tachyons.io)
 - [Minions](https://github.com/chantastic/minions.css)
 - [tachyons-js](https://github.com/jongold/tachyons-js) (css-in-js)
@@ -42,3 +42,9 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 - [Intro to Modular CSS](https://github.com/rangle/intro-to-modular-css)
 - [react-native-style-tachyons](https://github.com/tachyons-css/react-native-style-tachyons) (for React Native)
 - [Draper](https://github.com/winkerVSbecks/draper) (for React Native)
+
+### Learning Resources
+- [learn tachyons](https://github.com/dwyl/learn-tachyons)
+- [Functional CSS Protips](https://github.com/chibicode/react-functional-css-protips)
+- [tachyons.pro](https://tachyons.pro)
+- [egghead.io tutorials for tachyons](https://egghead.io/search?q=tachyons)
