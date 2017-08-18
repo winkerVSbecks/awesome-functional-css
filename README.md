@@ -30,6 +30,9 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 - [Opinions of Leaders Considered Harmful](http://cssmojo.com/opinions_of_leaders_considered_harmful)
 - [70% Repetition in Style Sheets](https://meiert.com/en/blog/20170531/70-percent-css-repetition/)
 
+### Design System Theory
+- [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
+
 ### Frameworks
 - [Tachyons](http://tachyons.io)
 - [Minions](https://github.com/chantastic/minions.css)
