@@ -8,7 +8,7 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 
 ### Why?
 - [Functional CSS Protips](https://github.com/chibicode/react-functional-css-protips) ✨ The most exhaustive guide to functional CSS
-- [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/)\
+- [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/)
 - [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 - [Full re-write in 10 days with tachyons and functional CSS](https://hackernoon.com/full-re-write-with-tachyons-and-functional-css-a-case-study-part-1-635ccb5fb00b)
 - [CSS Purge](http://csspurge.com/#component-league)
