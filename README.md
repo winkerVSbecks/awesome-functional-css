@@ -7,6 +7,7 @@ A collection of awesome things related to functional CSS/atomic CSS/modular CSS/
 – [Matt Rothenberg](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
 
 ### Why?
+- [In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css#it-bloats-the-html)
 - [Functional CSS Protips](https://github.com/chibicode/react-functional-css-protips) ✨ The most exhaustive guide to functional CSS
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/)
 - [On the Growing Popularity of Atomic CSS](https://css-tricks.com/growing-popularity-atomic-css/)
